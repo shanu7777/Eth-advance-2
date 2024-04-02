@@ -1,4 +1,4 @@
-# Insurance Hardhat Project Documentation
+# Eth Advance 2
 
 This project aims to create a Solidity-based insurance provider protocol. The protocol empowers users to participate in two insurance types: Wallet Insurance and Collateral Protection for Cryptocurrency Loans. Users can make premium payments, initiate insurance claims, and leverage the protocol's coverage features.
 
@@ -69,10 +69,8 @@ npx hardhat run scripts/deploy.js --network mumbai
 
 Before deploying the contract, configure your `.env` file by renaming `.env.example` and providing your wallet private key.
 
-## Author
-
-[[Samaila Anthony Malima](https://github.com/samailamalima)]
 
 ## License
 
 This project is licensed under the MIT License.
+- - -
